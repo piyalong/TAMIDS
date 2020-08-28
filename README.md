@@ -1,2 +1,2 @@
 # TAMIDS
-traffic management with TTi
+traffic management with TTI
